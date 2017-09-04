@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name = "Maven Automation testing">
+    <test name = "Smoke testing">
+        <classes>
+            <class name = "FirstTestNG"></class>
+        </classes>
+    </test>
+</suite>
